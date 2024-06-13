@@ -1,0 +1,14 @@
+/*     "icon": "./assets/icon.png", */
+
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+
+     "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+
+            "favicon": "./assets/favicon.png"
